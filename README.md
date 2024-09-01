@@ -1,8 +1,8 @@
 ## Installation Steps
 ## 1. Clone the Repository
 	First, clone the project repository to your local machine:
-	git clone https://github.com/your-username/your-repository.git
-	cd your-repository
+	git clone https://github.com/chandramaniarya/laravel-todo-task.git
+	cd laravel-todo-task
 ## 2. Install Dependencies
 	Use Composer to install PHP dependencies:
 
